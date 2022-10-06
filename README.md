@@ -1,2 +1,2 @@
 # Desafio-Dio
-Repositório com exercicios e projetos relacionado ao Bootcamp da Dio
+Repositório com exercicios e projetos relacionados ao Bootcamp da Dio
