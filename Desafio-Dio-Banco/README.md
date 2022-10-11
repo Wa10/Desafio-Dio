@@ -1,4 +1,4 @@
-# Projeto usando Orientação a Objetos na abstração e interpretação de um projeto de Banco
+# Projeto simples usando Orientação a Objetos na abstração e interpretação de um projeto de Banco
 
 ### Para esse desafio foi usado os seguintes conhecimentos:
 - Polimorfismo
